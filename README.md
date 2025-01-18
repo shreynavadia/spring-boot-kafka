@@ -15,7 +15,7 @@ To consume those messages and objects two consumers are used. Two `@KafkaListner
 
 ## Tools
 - Eclipse or IntelliJ IDEA (or any preferred IDE) with embedded Gradle
-- Maven (version >= 3.6.0)
+- Maven 
 - Postman (or any RESTful API testing tool)
 - Kafka (any commandline tool)
 
